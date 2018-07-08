@@ -6,7 +6,7 @@ Simple face recognition app that you could use for your projects
     Python3
 
 ## How to:
-    1. `python -r dependencies.txt` to install dependencies
+    1. `pip install -r dependencies.txt` to install dependencies
 
     2. Download pretained models at : https://drive.google.com/file/d/0Bx4sNrhhaBr3TDRMMUN3aGtHZzg/view?usp=sharing
 
